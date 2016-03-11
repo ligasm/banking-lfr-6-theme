@@ -1,0 +1,68 @@
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element dataType="integer" fieldNamespace="ddm" indexType="keyword" localizable="true" name="Height" readOnly="false" repeatable="false" required="true" showLabel="true" type="ddm-integer" width="small">
+        <meta-data locale="en_US">
+            <entry name="label">
+                <![CDATA[Height]]>
+            </entry>
+            <entry name="predefinedValue">
+                <![CDATA[]]>
+            </entry>
+            <entry name="tip">
+                <![CDATA[]]>
+            </entry>
+        </meta-data>
+    </dynamic-element>
+    <dynamic-element dataType="string" indexType="keyword" localizable="true" name="Colour" readOnly="false" repeatable="false" required="true" showLabel="true" type="text" width="small">
+        <meta-data locale="en_US">
+            <entry name="label">
+                <![CDATA[Colour]]>
+            </entry>
+            <entry name="predefinedValue">
+                <![CDATA[]]>
+            </entry>
+            <entry name="tip">
+                <![CDATA[]]>
+            </entry>
+        </meta-data>
+    </dynamic-element>
+    <dynamic-element dataType="document-library" fieldNamespace="ddm" indexType="keyword" localizable="true" name="BackgroundImage" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-documentlibrary" width="">
+        <meta-data locale="en_US">
+            <entry name="label">
+                <![CDATA[BackgroundImage]]>
+            </entry>
+            <entry name="predefinedValue">
+                <![CDATA[]]>
+            </entry>
+            <entry name="tip">
+                <![CDATA[]]>
+            </entry>
+        </meta-data>
+    </dynamic-element>
+    <dynamic-element dataType="string" indexType="keyword" localizable="true" name="Title" readOnly="false" repeatable="false" required="true" showLabel="true" type="text" width="small">
+        <meta-data locale="en_US">
+            <entry name="label">
+                <![CDATA[Title]]>
+            </entry>
+            <entry name="predefinedValue">
+                <![CDATA[]]>
+            </entry>
+            <entry name="tip">
+                <![CDATA[]]>
+            </entry>
+        </meta-data>
+    </dynamic-element>
+    <dynamic-element dataType="string" indexType="keyword" localizable="true" name="Subtitle" readOnly="false" repeatable="false" required="false" showLabel="true" type="textarea" width="small">
+        <meta-data locale="en_US">
+            <entry name="label">
+                <![CDATA[Subtitle]]>
+            </entry>
+            <entry name="predefinedValue">
+                <![CDATA[]]>
+            </entry>
+            <entry name="tip">
+                <![CDATA[]]>
+            </entry>
+        </meta-data>
+    </dynamic-element>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element name="Height" type="ddm-integer" index-type="keyword" index="0">
+        <dynamic-content language-id="en_US"><![CDATA[300]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Colour" type="text" index-type="keyword" index="0">
+        <dynamic-content language-id="en_US"><![CDATA[Black]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="BackgroundImage" type="document_library" index-type="keyword" index="0">
+        <dynamic-content language-id="en_US"><![CDATA[[$FILE=london.jpg$]]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Title" type="text" index-type="keyword" index="0">
+        <dynamic-content language-id="en_US"><![CDATA[This is a call out]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Subtitle" type="text_box" index-type="keyword" index="0">
+        <dynamic-content language-id="en_US"><![CDATA[This call out is important!]]></dynamic-content>
+    </dynamic-element>
+</root>

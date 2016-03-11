@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="Back_Ground_Image" type="document_library" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[[$FILE=london.jpg$]]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="MainMessage" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[This is the main message]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="SubMessage" type="text_box" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[Is it not cool]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[#]]></dynamic-content>
+	</dynamic-element>
+</root>

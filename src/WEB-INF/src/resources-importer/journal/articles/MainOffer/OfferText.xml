@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element name="items" type="selection_break" index-type="keyword" index="0">
+        <dynamic-element name="Link" index="0" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="0" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-star]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Title" index="0" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[offer 1]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="0" type="text_box" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[superb offer]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="items" type="selection_break" index-type="keyword" index="1">
+        <dynamic-element name="Link" index="1" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="1" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-home]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Title" index="1" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[offer 2]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="1" type="text_box" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[awesome ofer]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="items" type="selection_break" index-type="keyword" index="2">
+        <dynamic-element name="Link" index="2" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="2" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-signal]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Title" index="2" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[offer 3]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="2" type="text_box" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[the best offer]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="items" type="selection_break" index-type="keyword" index="3">
+        <dynamic-element name="Link" index="3" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="3" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-android]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Title" index="3" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[offer 4]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="3" type="text_box" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[what you say to this]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

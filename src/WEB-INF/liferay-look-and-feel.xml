@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE look-and-feel PUBLIC "-//Liferay//DTD Look and Feel 6.2.0//EN" "http://www.liferay.com/dtd/liferay-look-and-feel_6_2_0.dtd">
+
+<look-and-feel>
+	<compatibility>
+		<version>6.2.0+</version>
+	</compatibility>
+	<theme id="banking-6" name="Banking 6 Theme">
+		<template-extension>ftl</template-extension>
+		<layout-templates>
+			<custom>
+				<layout-template id="header_1_column">
+					<template-path>/layouts/header_1_column.tpl</template-path>
+					<wap-template-path>/layouts/header_1_column.wap.tpl</wap-template-path>
+					<thumbnail-path>/layouts/header_1_column.png</thumbnail-path>
+				</layout-template>
+			</custom>
+		</layout-templates>
+	</theme>
+</look-and-feel>
